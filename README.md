@@ -24,7 +24,6 @@ An interactive analytics dashboard built in Databricks AI/BI that analyzes Azure
 - Cost spike ratio
 
 ### Service Breakdown
-- Bar chart: cost ranking by service
 - Pie chart: cost distribution across services
 
 ### Trends
@@ -33,11 +32,6 @@ An interactive analytics dashboard built in Databricks AI/BI that analyzes Azure
 ### Volatility Analysis
 - Spike ratio (max vs average cost) to detect unstable usage
 
-### Optimization Actions
-- Recommendations table with estimated savings per service
-
-### Data View
-- Detailed table: total cost, average cost, max cost, record count
 
 ---
 
